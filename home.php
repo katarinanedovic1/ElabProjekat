@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>FON: Prijava kolokvijuma</title>
+    <title>FON: Kolokvijumi prijava</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/home.css">
 </head>
